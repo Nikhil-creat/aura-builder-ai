@@ -23,7 +23,7 @@ Pure HTML/CSS/vanilla JS — no framework, no build tools, no external API calls
 
 ## Author
 
-**Nikhil Chary Sriramoju**
+**NIKHIL CHARY SRIRAMOJU**
 - GitHub: [Nikhil-creat](https://github.com/Nikhil-creat)
 - LinkedIn: [nikhil-chary-sriramoju](https://in.linkedin.com/in/nikhil-chary-sriramoju-95041b38a)
 - Email: sriramojunikhil66@gmail.com
